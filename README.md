@@ -1,6 +1,13 @@
-# Java Program (Core Java)
+# Java Program
+Author - Rajat Jain
 
--Core Java
--OOPS
--Collection Frameworks
--Multi Threading
+This Repo contains the source code for the Exercise that we have done in the ATB7x batch
+
+- Core JAVA
+- OOPs
+- Collections Framework
+- Multi Threading
+- Design Patterns
+- FILE IO
+- Other misc concepts
+- Exception
